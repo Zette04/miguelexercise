@@ -1,0 +1,7 @@
+{
+        "prefetchBuffer": 0,
+        "inputQueue": "asd-input-1",
+        "retryQueue": "asd-input-1",
+        "rejectedQueue": "asd-rejected-1",
+        "retryLimit": 2
+}
